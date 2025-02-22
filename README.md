@@ -28,6 +28,8 @@ _The dashboard for the BuildTheEarth Project._
     + [Standards](#standards)
 + [🪢 License](#-license)
 
+**Warning: This repository has been archived. All code has been moved to the /web monorepo at [BuildTheEarth/web](https://github.com/BuildTheEarth/web)!**
+
 # 🌍 About BuildTheEarth
 
 Our mission is to fully recreate the entire Earth in Minecraft at a 1:1 scale. One block in Minecraft equates to roughly one meter in the real world, meaning that this project will fully recreate the size of our planet. Anyone is able to join us and contribute to the largest and most expansive build project to ever have been attempted in Minecraft. Every language, nationality, and regional difference is accepted and regarded as our greatest attribute as we continue our journey to unite all of Humanity's greatest achievements into a single Minecraft world.
